@@ -1,14 +1,31 @@
-# SUHAIL-X (V2)
+# 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫    #Itachi(V6)
 <p align="center">
-<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE"><img title="Author" src="https://files.catbox.moe/qf4ipv.jpg?style=for-the-badge&logo=github"></a>
 
+----------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
+
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`INFINITE+-+TSUKUYOMI+-+MD+WHATSAPP+BOT`" alt="">
+
+------------
+
+
+<br>
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+<br>
 
   <p align="center">
-<a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/SUHAIL-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/SUHAIL-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/GlobalTechInfo/SUHAIL-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/followers"><img title="Followers" src="https://img.shields.io/github/followers/TSUKUYOMI?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/SUHAIL-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/network/members"><img title="Forks" src="https://img.shields.io/github/forks/https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/"><img title="Size" src="https://img.shields.io/github/repo-size/Tristan7122/TSUKUYOMI-MUILT-DEVICE?style=flat-square&color=green"></a>
+<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -23,12 +40,12 @@
 ---
 
 
- <p align="center"><img src="https://profile-counter.glitch.me/{SUHAIL-XMD}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{TSUKUYOMI-XMD}/count.svg" alt="MULTI DEVICE BOT:: Visitor's Count" old_src="https://profile-counter.glitch.me/{MULTI DEVICE BOT}/count.svg" /></p>
 
 
-  <p align="center"> Meet Suhail-X, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  <p align="center"> Meet 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. TSUKUYOMI_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
-  <a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/fork"><img title="SUHAIL-XMD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/fork"><img title="𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫" src="https://img.shields.io/badge/FORK-𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
  
@@ -37,10 +54,10 @@
 ## Deployment Methods
 ---
 
-1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION ID`](https://tsukuyomi-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
-2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
-3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/GlobalTechInfo/SUHAIL-XMD/fork)***
+2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be).***
+3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE)***
    
 4.  #### DEPLOY IN HEROKU 
 
@@ -49,7 +66,7 @@
 --------
 5.  #### DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github/GlobalTechInfo/SUHAIL-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+   <a href='https://repl.it/github/GlobalTechInfo/𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
 6.  #### DEPLOY IN KOYEB
@@ -110,8 +127,8 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/GlobalTechInfo/SUHAIL-XMD
-      cd SUHAIL-XMD
+      git clone https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE
+      cd TSUKUYOMI-MD 
       yarn install --network-concurrency 1 && npm install
       ```
 
@@ -123,14 +140,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="923184474176"
+      OWNER_NUMBER="27710200228"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
-      THUMB_IMAGE = "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
-      OWNER_NAME = "Suhail"
+      THUMB_IMAGE = "https://www.imghippo.com/i/DmYX9341LA.jpg"
+      OWNER_NAME = "ORANGE"
       PREFIX = .
       WARN_COUNT = 3
       DISABLE_PM = "false"
-      THEME= "SUHAIL"
+      THEME= "BLOOD RED"
       MODE = "public"
       ANTILINK_VALUES = "https://,chat.whatsapp.com"
       
@@ -142,10 +159,9 @@
       To start bot ``` npm start ```,
       To stop bot ``` npm stop ```
 
-### TUTORIAL FOR TERMUX/UBUNTU
-<a href="https://youtu.be/oXQjl39Bl7M"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/oXQjl39Bl7M" /><br>
+### NO TUTORIAL YET
 
---------
+-------
 
 12.   ## TERMUX/UBUNTU
 _First Of All Fork The Repo Then You'll Be Able To Do All The Remaining Steps.Add environment variables in config.env and config.js then run
@@ -186,10 +202,10 @@ sudo yarn global add pm2
 _Before Cloning It,Make Sure Get Session ID Via Pairing Or Scanning.Add Session ID And Owner Number In config.env And config.js.This Process Can Be Done In Fork Only.After That Clone The Fork And Execute Remaining Commands._
 
 ```
-git clone https://github.com/<your_username>/SUHAIL-XMD
+git clone https://github.com/<your_username>/TSUKUYOMI-MD
 ```
 ```
-cd SUHAIL-XMD
+cd TSUKUYOMI-MD
 ```
 ```
 npm install
@@ -202,15 +218,27 @@ npm start
  
 <h2 align="center">  NOTICE </h2>
 ---
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫 at your own risk by keeping this warning in mind.*
  
 
 - Star ⭐ repo if you like this bot.
 - 
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07)
+[![JOIN WHATSAPP SUPPORT](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/CicqD04sNCJ37j13LiI51p)
 --------
+
+
+### CONTRIBUTORS
+<a href="https://files.catbox.moe/iieoes.jpg"><img src="https://github.com/LordeVraps".png" width="200" height="200" alt="LordeVraps"/></a>
+
+
+<a href="https://files.catbox.moe/iieoes.jpg
+"><img src="https://github.com/Ghost7798.png" width="200" height="200" alt="Ghost7798"/></a>
+
+
+
+# TSUKUYOMI-MULTI-DEVICE
 
 
 
